@@ -1,2 +1,2 @@
 * Drum kit build with JS (ES6).
-* This project host on [pooyagolchian.ir](http://pooyagolchian.ir/drum)
+* This project host on [pooyagolchian.ir/drum](http://pooyagolchian.ir/drum)
